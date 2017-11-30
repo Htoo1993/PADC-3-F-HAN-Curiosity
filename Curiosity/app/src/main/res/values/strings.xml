@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Curiosity</string>
+
+    <string name="terms_and_conditions">Terms &amp; Conditions and Privacy Policy</string>
+    <string name="sign_in_with_facebook">Sign in With <b>Facebook</b></string>
+    <string name="sign_in_with_google">Sign in With <b>Google</b></string>
+    <string name="sign_in_with_twitter">Sign in With <b>Twitter</b></string>
+    <string name="sign_up_with_email"><b>Sign Up</b> \nWith Email </string>
+    <string name="sign_in_with_email"><b>Sign In</b> \nWith Email </string>
+</resources>

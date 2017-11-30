@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="text_color">#FFF</color>
+    <color name="fb_background">#274b71</color>
+    <color name="google_background">#255291</color>
+    <color name="twitter_background">#2968a4</color>
+    <color name="email_background">#6e7e88</color>
+</resources>
